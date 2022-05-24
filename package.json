@@ -1,0 +1,23 @@
+{
+  "name": "md-links-mulleresposito",
+  "version": "1.0.0",
+  "main": "cli.js",
+  "description": "Lib to handle links in markdown files",
+  "keywords": ["Javascript", "NodeJS", "Markdown"],
+  "author": "Müller Esposito Nunes",
+  "license": "ISC",
+  "bin": {
+    "mdlinks": "./cli.js"
+  },
+  "scripts": {
+    "cli": "node cli.js",
+    "test": "jest tests"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "node-fetch": "^3.2.4"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
