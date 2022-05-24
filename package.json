@@ -4,8 +4,18 @@
   "main": "cli.js",
   "description": "Lib to handle links in markdown files",
   "keywords": ["Javascript", "NodeJS", "Markdown"],
-  "author": "Müller Esposito Nunes",
+  "author": "Müller Esposito Nunes <mulleresposito@hotmail.com>",
+  "preferGlobal": true,
   "license": "ISC",
+  "homepage": "https://github.com/MullerEsposito/md-links-mulleresposito.git#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MullerEsposito/md-links-mulleresposito.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MullerEsposito/md-links-mulleresposito.git/issues",
+    "email": "mulleresposito@hotmail.com"
+  },
   "bin": {
     "mdlinks": "./cli.js"
   },
