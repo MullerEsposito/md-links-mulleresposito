@@ -1,6 +1,6 @@
 {
   "name": "md-links-mulleresposito",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "cli.js",
   "description": "Lib to handle links in markdown files",
   "keywords": ["Javascript", "NodeJS", "Markdown"],
